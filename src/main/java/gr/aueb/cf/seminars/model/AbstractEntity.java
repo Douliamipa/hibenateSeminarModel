@@ -17,4 +17,6 @@ public abstract class AbstractEntity implements IdentifiableEntity{
     public Long getId() {
         return  null;
     }
+
+
 }
